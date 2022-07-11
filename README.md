@@ -1,9 +1,9 @@
 **About**
 
-- 👋 Hi, I’m @Dean998 - Cardano Developer 
+- 👋 Hi, I’m @Dean998  
  - 📚BSc Computer Science
 - 👀 I’m interested in Back End Development, interested in the full stack development of digital applications in the blockchain space
-- 🌱 Working With JavaScript, Node.js & Cardano-cli 
+ - 🌱 Working With Typescript, Node.js & NestJs 
 - 💞️ I’m looking to collaborate on back-end development using node.js
 - 📫 How to reach me dean.blackwood01@gmail.com
 
