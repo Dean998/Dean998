@@ -20,7 +20,7 @@ I'm a Full Stack Developer with a BSc in Computer Science. I specialize in build
 ![Dean's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dean998&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default)
 
 ## 📣 Let's connect!
-- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/dean-blackwood-738362113/)https://www.linkedin.com/in/dean-blackwood-738362113/)
+- [LinkedIn](https://www.linkedin.com/in/dean-blackwood-738362113)
 
 ---
 
