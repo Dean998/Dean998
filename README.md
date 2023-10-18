@@ -8,7 +8,7 @@ I'm a Full Stack Developer with a BSc in Computer Science. I specialize in build
 
 - **Languages:** JavaScript (React, Next.js), TypeScript, Node.js, Python, Solidity, Cadence
 - **Frameworks:** NestJS, Serverless
-- **Databases:** SQL
+- **Databases:** SQL, MongoDB, Postgres, Prisma
 - **Testing:** Jest
 - **Cloud:** AWS
 - **Others:** GitHub, Git, CI/CD, Docker
