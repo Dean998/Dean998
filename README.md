@@ -1,26 +1,27 @@
-**About**
+# Hello, I'm Dean Blackwood! 👋
 
-- 👋 Hi, I’m @Dean998  
-- 📚BSc Computer Science
-- 👀 I’m a Full Stack developer
-- 🌱 Tech Stack is Next.JS,Typescript, Node.JS & NestJS, Serverless, SQL,
--  Test driven development, using JEST testing for back-end api
-- 💞️ I’m looking to collaborate on back-end development using node.js, python
-- 📫 How to reach me dean.blackwood01@gmail.com
+![GitHub followers](https://img.shields.io/github/followers/Dean998?label=Follow&style=social) 
 
+I'm a Full Stack Developer with a BSc in Computer Science. I specialize in building robust back-end systems and delightful front-end experiences. I'm passionate about clean code, test-driven development, and continuous learning.
 
+## 🛠️ Technologies & Tools
 
-**Languages and Tools:**
+- **Languages:** JavaScript (React, Next.js), TypeScript, Node.js, Python, Solidity, Cadence
+- **Frameworks:** NestJS, Serverless
+- **Databases:** SQL
+- **Testing:** Jest
+- **Cloud:** AWS
+- **Others:** GitHub, Git, CI/CD, Docker
 
-<code><img height="20" src="https://camo.githubusercontent.com/a870803f30db1d15495072fa9e946a7fa6a6fc1a47fe12324aaf7509c410fc4a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176612e737667"></code>
-<code><img height="20" src="https://docs.soliditylang.org/en/v0.8.10/_images/logo.svg"></code>
-<code><img height="20" src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+> 💼 If you have a project that you want to get started or need help with an existing project, feel free to [reach out](mailto:dean.blackwood01@gmail.com)!
 
+## 📈 GitHub Stats
 
+![Dean's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dean998&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default)
 
-<!---
-Dean998/Dean998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📣 Let's connect!
+- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/dean-blackwood-738362113/)https://www.linkedin.com/in/dean-blackwood-738362113/)
+
+---
+
+⭐️ From [Dean998](https://github.com/Dean998)
