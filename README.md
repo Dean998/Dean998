@@ -1,10 +1,11 @@
 **About**
 
 - 👋 Hi, I’m @Dean998  
- - 📚BSc Computer Science
-- 👀 I’m interested in Back End Development, interested in the full stack development of digital applications in the blockchain space
- - 🌱 Working With Typescript, Node.js & NestJs 
-- 💞️ I’m looking to collaborate on back-end development using node.js
+- 📚BSc Computer Science
+- 👀 I’m a Full Stack developer
+- 🌱 Tech Stack is Next.JS,Typescript, Node.JS & NestJS, Serverless, SQL,
+-  Test driven development, using JEST testing for back-end api
+- 💞️ I’m looking to collaborate on back-end development using node.js, python
 - 📫 How to reach me dean.blackwood01@gmail.com
 
 
