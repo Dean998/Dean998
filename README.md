@@ -9,9 +9,9 @@ I'm a Full Stack Developer with a BSc in Computer Science. I specialize in build
 - **Languages:** JavaScript (React, Next.js), TypeScript, Node.js, Python, Solidity, Cadence
 - **Frameworks:** NestJS, Serverless
 - **Databases:** SQL, MongoDB, Postgres, Prisma
-- **Testing:** Jest
-- **Cloud:** AWS
-- **Others:** GitHub, Git, CI/CD, Docker
+- **Testing:** Jest, ViTest
+- **Cloud:** AWS, GCP
+- **Others:** GitHub, Git, CI/CD, Docker, EC2
 
 > 💼 If you have a project that you want to get started or need help with an existing project, feel free to [reach out](mailto:dean.blackwood01@gmail.com)!
 
